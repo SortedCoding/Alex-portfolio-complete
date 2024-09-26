@@ -10,5 +10,19 @@ click on the link to see :- ([Open in Youtube](https://youtu.be/6J0IVkucb-M))
 # Home Page
 ![screenshot](AlexHome.png)
 
+# Skills Page 
+![screenshot](AlexSkill.png)
+
+# Education Page
+![screenshot](AlexEducation.png)
+
+# Services Page
+![screenshot](AlexServices.png)
+
+# Contact page
+![screenshot](AlexContact.png)
+
+# Footer section
+![screenshot](AlexFooter.png)
 
 
